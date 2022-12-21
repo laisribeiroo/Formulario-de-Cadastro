@@ -1,0 +1,53 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "nome": "Laís Ribeiro",
+      "email": "lais@gmail.com",
+      "nascimento": "02/02/1996",
+      "cep": 58200000
+    },
+    {
+      "id": 2,
+      "nome": "Luiz Ribeiro",
+      "email": "luiz@gmail.com",
+      "nascimento": "29/15/1963",
+      "cep": "58200000"
+    },
+    {
+      "id": 3,
+      "nome": "Cynthia Ribeiro",
+      "email": "cynthia@gmail.com",
+      "nascimento": "10/06/1992",
+      "cep": 58200000
+    },
+    {
+      "id": 4,
+      "nome": "Ozineide Araújo",
+      "email": "neide@gmail.com",
+      "nascimento": "16/06/1963",
+      "cep": "58200000"
+    },
+    {
+      "nome": "Neymar Jr.",
+      "email": "ney@gmail.com",
+      "nascimento": "05/02/1992",
+      "cep": "58200000",
+      "id": 5
+    },
+    {
+      "nome": "Aegon",
+      "email": "aegon@hotmail.com",
+      "nascimento": "13/06/2022",
+      "cep": "11222333",
+      "id": 6
+    },
+    {
+      "nome": "Noah",
+      "email": "noah@gmail.com",
+      "nascimento": "13/12/2021",
+      "cep": "58200000",
+      "id": 7
+    }
+  ]
+}
